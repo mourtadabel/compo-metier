@@ -1,3 +1,4 @@
+package atelier3;
 import java.util.Iterator;
 
 class PlateauIterator implements Iterator<Case> {

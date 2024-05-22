@@ -1,3 +1,4 @@
+package atelier3;
 class Case {
     private int numero;
     private String nom;
